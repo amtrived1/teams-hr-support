@@ -166,8 +166,11 @@ namespace Microsoft.Teams.Apps.AskHR.Bots
                 this.telemetryClient.TrackTrace($"Received conversationUpdate activity");
                 this.telemetryClient.TrackTrace($"conversationType: {activity.Conversation.ConversationType}, membersAdded: {activity.MembersAdded?.Count()}, membersRemoved: {activity.MembersRemoved?.Count()}");
 
+                await turnContext.SendActivityAsync($"conversationType: {activity.Conversation.ConversationType}, membersAdded: {activity.MembersAdded?.Count()}, membersRemoved: {activity.MembersRemoved?.Count()}");
+
                 if (activity.MembersAdded?.Count() > 0)
                 {
+                    await turnContext.SendActivityAsync($"ConversationType: {activity.Conversation.ConversationType}");
                     switch (activity.Conversation.ConversationType)
                     {
                         case "personal":
