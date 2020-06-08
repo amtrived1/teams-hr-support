@@ -1,6 +1,6 @@
 # HR Support App Template
 
-| [Documentation](https://github.com/OfficeDev/microsoft-teams-hrsupport-app/wiki) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-hrsupport-app/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-hrsupport-app/wiki/Solution-Overview) |
+| [Documentation](https://github.com/amtrived1/microsoft-teams-hrsupport-app/wiki) | [Deployment guide](https://github.com/amtrived1/microsoft-teams-hrsupport-app/wiki/Deployment-Guide) | [Architecture](https://github.com/amtrived1/microsoft-teams-hrsupport-app/wiki/Solution-Overview) |
 | ---- | ---- | ---- |
 
 Chatbots are an easy way to provide answers to frequently asked questions by users. However, most chatbots fail to engage with users in meaningful way because there is no human in the loop when the chatbot fails. 
@@ -9,13 +9,13 @@ HR Support bot is a friendly Q&A bot that brings a support professional/expert f
 HR Support works well for light weight QnA and to provide quick support when launching new projects/initiatives in the organization.
 
 An end-user interacting with HR Support:
-![End-user interaction](https://github.com/OfficeDev/microsoft-teams-hrsupport-app/wiki/images/end-user.png)
+![End-user interaction](https://github.com/amtrived1/microsoft-teams-hrsupport-app/wiki/images/end-user.png)
 
 Experts team using HR Support:
-![Expert interaction](https://github.com/OfficeDev/microsoft-teams-hrsupport-app/wiki/images/expert-user.png)
+![Expert interaction](https://github.com/amtrived1/microsoft-teams-hrsupport-app/wiki/images/expert-user.png)
 
 ## Legal Notice
-This app template is provided under the [MIT License](https://github.com/OfficeDev/microsoft-teams-hrsupport-app/blob/master/LICENSE) terms.  In addition to these terms, by using this app template you agree to the following:
+This app template is provided under the [MIT License](https://github.com/amtrived1/microsoft-teams-hrsupport-app/blob/master/LICENSE) terms.  In addition to these terms, by using this app template you agree to the following:
 
 -	You are responsible for complying with all applicable privacy and security regulations related to use, collection and handling of any personal data by your app.  This includes complying with all internal privacy and security policies of your organization if your app is developed to be sideloaded internally within your organization.
 
@@ -28,15 +28,15 @@ This app template is provided under the [MIT License](https://github.com/OfficeD
 
 ## **Getting** **Started**
 
-Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-hrsupport-app/wiki/Solution-Overview) to read about what the app does and how it works.
+Begin with the [Solution overview](https://github.com/amtrived1/microsoft-teams-hrsupport-app/wiki/Solution-Overview) to read about what the app does and how it works.
 
-When you're ready to try out HR Support, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-hrsupport-app/wiki/Deployment-Guide).
+When you're ready to try out HR Support, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/amtrived1/microsoft-teams-hrsupport-app/wiki/Deployment-Guide).
 
 ## **Feedback**
 
 Thoughts? Questions? Ideas? Share them with us on [Teams UserVoice](https://microsoftteams.uservoice.com/forums/555103-public)!
 
-Please report bugs and other code issues [here](https://github.com/OfficeDev/microsoft-teams-hrsupport-app/issues/new).
+Please report bugs and other code issues [here](https://github.com/amtrived1/microsoft-teams-hrsupport-app/issues/new).
 
 ## **Contributing**
 
